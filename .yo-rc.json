@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SampleApplication",
+    "packageName": "com.tayfun.spring",
+    "packageFolder": "com/tayfun/spring",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "session",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "rememberMeKey": "82d8a4c46d219222de7ad3c130af4ad4c4f6931a6d8193fbd1bdb05d6868122de94a1f0b511b76ee9abb721d800b525bc941",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "tyfnckgz",
+  "repository-name": "sample-application"
+}
